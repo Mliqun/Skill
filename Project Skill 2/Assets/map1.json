@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cube",
+    "pathName": "Cube",
+    "isFlag": true,
+    "px": 0.0,
+    "py": 0.5,
+    "pz": 0.0,
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "type": 1
+  },
+  {
+    "name": "Sphere",
+    "pathName": "Sphere",
+    "isFlag": true,
+    "px": 0.0,
+    "py": 0.5,
+    "pz": 3.62,
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "type": 1
+  },
+  {
+    "name": "Capsule",
+    "pathName": "Capsule",
+    "isFlag": true,
+    "px": -9.16,
+    "py": 1.0,
+    "pz": -9.03,
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "type": 2
+  },
+  {
+    "name": "Cylinder",
+    "pathName": "Cylinder",
+    "isFlag": true,
+    "px": -12.03,
+    "py": 0.2,
+    "pz": 11.71,
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "type": 3
+  },
+  {
+    "name": "Cylinder1",
+    "pathName": "Cylinder1",
+    "isFlag": true,
+    "px": -10.51,
+    "py": 0.2,
+    "pz": 11.71,
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "type": 3
+  },
+  {
+    "name": "Cylinder2",
+    "pathName": "Cylinder2",
+    "isFlag": true,
+    "px": -12.03,
+    "py": 0.2,
+    "pz": 10.12,
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "type": 3
+  }
+]

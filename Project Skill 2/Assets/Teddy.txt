@@ -1,0 +1,1 @@
+[{"name":"Attack","Skilldic":{"动画":[{"componentName":"Attack1","trigger":"0"}]}},{"name":"2","Skilldic":{"动画":[{"componentName":"Attack1","trigger":"0"}],"音效":[{"componentName":"Gun","trigger":"0"}],"特效":[{"componentName":"FX_BHW_Spec04_3","trigger":"0"}]}}]

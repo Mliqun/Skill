@@ -1,0 +1,1 @@
+[{"name":"111","skillComponents":{"动画":[{"ComponentName":"Attack1","trigger":"0"}]}}]
